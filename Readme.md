@@ -32,7 +32,7 @@ mi-landing-render/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/mi-landing-render.git
+   git clone https://github.com/Charlie-Nash/RenderNodeApp
    cd mi-landing-render
    ```
 
@@ -63,7 +63,7 @@ mi-landing-render/
 
 ## ✨ Captura de pantalla
 
-![Vista previa de la landing page](public/img/hero.jpg)
+![Vista previa de la landing page](public/img/bg.jpg)
 
 ## 📄 Licencia
 
