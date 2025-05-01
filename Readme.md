@@ -25,7 +25,7 @@ mi-landing-render/
     ├── css/
     │   └── style.css      # Estilos personalizados
     └── img/
-        └── bg.jpg       # Imagen decorativa
+        └── bg.jpg         # Imagen decorativa
 ```
 
 ## ⚙️ Instalación y ejecución local
