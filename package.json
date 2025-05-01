@@ -1,0 +1,16 @@
+{
+  "name": "rendernodeapp",
+  "version": "1.0.0",
+  "description": "Este proyecto es una landing page moderna y responsiva, construida con Node.js y Express.js, diseñada para ser publicada fácilmente en Render.com.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["landing page", "node", "express", "render"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
